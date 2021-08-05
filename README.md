@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🔝 Avanço
 
 [✅] Aula 01: Liftoff
-[ ] Aula 02: Maximum Speed
+[✅] Aula 02: Maximum Speed
 [ ] Aula 03: In Orbit
 [ ] Aula 04: Landing
 [ ] Aula 05: Surface Exploration
