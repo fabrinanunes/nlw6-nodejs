@@ -31,6 +31,22 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💾 Instalação
 
+Siga os passos a baixo para executar o projeto!
+
+Clone o repositório
+`git clone https://github.com/fabrinanunes/nlw6-nodejs`
+
+Instale todas as dependências do projeto
+`yarn install`
+
+Gere as tabelas do banco de dados
+`yarn typeorm migration:run`
+
+Dê start na apliação
+`yarn dev`
+
+Em seguida acesse http://localhost:3000 no seu navegador.
+
 ## 🔝 Avanço
 
 [✅] Aula 01: Liftoff
@@ -42,3 +58,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 [✅] Aula 04: Landing
 
 [✅] Aula 05: Surface Exploration
+
+[ ] Extra: implementar o front-end

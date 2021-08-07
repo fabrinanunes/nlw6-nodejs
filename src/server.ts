@@ -6,6 +6,7 @@ import express, { Request, Response, NextFunction } from "express"
 import { router } from "./routes"
 
 const app = express()
+//front-end
 app.use(cors())
 
 app.use(express.json())
