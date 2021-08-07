@@ -41,4 +41,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 [✅] Aula 04: Landing
 
-[ ] Aula 05: Surface Exploration
+[✅] Aula 05: Surface Exploration
